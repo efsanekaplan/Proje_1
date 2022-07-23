@@ -31,3 +31,11 @@ Pandas yardımıyla oluşturalacak excel dosyası için Sütun değerli listesi 
 ![image](https://user-images.githubusercontent.com/93267352/180609186-2b41b07b-dbd7-41a4-b6fc-52e8fafa7bfa.png)
 
 
+##  Kullanılan paketler/Kütüphaneler
+* Pandas
+
+
+##  Kullanılan kaynaklar
+* https://globalaihub.com/courses/introduction-to-python/
+* https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/
+* StackOverFlow
